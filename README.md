@@ -11,7 +11,24 @@ This Microverse Project is built to deepen our knowledge on linters and Github w
 
 ## Getting Started
 
-**Setup HTML & CSS Linters in Workflows folder through Actions ob Github**
+- Clone the repository
+
+```
+git clone https://github.com/repository
+```
+- Configure default linting rules
+- Expand .gitignore with more exceptions
+- Add test files with .extension you'd like to be ignored by Git
+- Push your repository to GitHub
+
+```
+git add .
+git commit -m "Commit description"
+git push origin <your-branch>
+```
+
+### Git Bash
+
 **Add .gitignore file**
 **Add CSS and HTML files file**
 **Complete test and add test.md file**
